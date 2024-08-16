@@ -1,4 +1,4 @@
-# JavaScript DApp Template
+# Cartesi Task Manager
 
-This is a template for JavaScript Cartesi DApps. It uses node to execute the backend application.
-The application entrypoint is the `src/index.js` file. It is bundled with [esbuild](https://esbuild.github.io), but any bundler can be used.
+This is a simple cartesi DApp to store tasks in a to do list
+
